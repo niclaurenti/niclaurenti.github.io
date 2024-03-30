@@ -99,7 +99,7 @@ Other than physics and coding I have other interests:
 - I started playing basketball at a very young age (6 years old) with [Minibasket Roma Team-up](http://www.minibasketromateamup.it),
 and then I continued with Sam Basket Roma (that unfortunately no longer exists) where I played in all the youth categories and in
 the italian C Silver series.
-In March 2023 with the start of the COVID-19 pandemic I ended my basketball career. Such a great loss for the whole italian 
+In March 2020 with the start of the COVID-19 pandemic I ended my basketball career. Such a great loss for the whole italian 
 basketball community. Check <a href="basketballcareer">this page</a> for more details.
 - Since spring 2023 I am an amateur runner. My aim is to run at least an half-marathon, but there is still a long way to go.
 - I am an amateur cook: my best disher are all the ones coming from the Roman cousine like Spagetti alla carbonara, Cacio e pepe, 
