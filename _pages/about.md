@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in particle physics at the University of Milan.
+I am a Ph.D. student in particle physics at the University of Milan and a member of the [NNPDF](https://nnpdf.mi.infn.it) collaboration
+where I work as a code developer. Check here the [Github](https://github.com/NNPDF).
+
 With a background in theoretical physics in the field of particle physics, my research focuses in the high precision study of the internal
 structure of the proton using machine learning tool, like neural networks, using experimental data collected at particle accelerators
 like HERA or LHC.
@@ -16,9 +18,18 @@ the distribution of its constituents (quarks and gluons).
 This is fundamental for the physics program of all the particle accelerators in high energy physics, like the LHC at CERN, since the PDFs
 enter in the computation of all theory predictions in the hadron accelerators.
 
+The two follwing pictures show on the left the neural network used in the analysis and on the right the resulting PDFs.
+Both pictures are taken from the [NNPDF4.0 paper](https://inspirehep.net/literature/1918284).
+
+<img src="images/neuralnetwork.png" alt="Neural network used in the analysis." width="350">
+<img src="images/PDFs.png" alt="PDFs." width="350">
+
+
 I am also a computer science enthusiast: during my research carreer I worked with a variety of programming languages, but in particular
 with C++ and Python.
 I have hands-on experience with various machine learning tools, like Keras and Tensorflow.
+
+Check here my [Github](https://github.com/niclaurenti) page for more details on my (public) projects.
 
 
 A more detailed description of what I do
@@ -27,6 +38,8 @@ A more detailed description of what I do
 
 Other Interests
 ======
+
+
 
 Contacts
 ------
