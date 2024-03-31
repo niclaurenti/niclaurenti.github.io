@@ -4,8 +4,26 @@ NNPDF:2024nan:
   venue: "European Physical Journal C"
   year: 2024
   authors:
-    - NNPDF collaboration
-    - laurenti
+    - nnpdf
+    # - NNPDF collaboration
+    # - ball
+    # - barontini
+    # - candido
+    # - carrazza
+    # - cruz
+    # - deldebbio
+    # - forte
+    # - giani
+    # - hekhorn
+    # - kassabov
+    # - laurenti
+    # - magni
+    # - nocera
+    # - rabemananjara
+    # - rojo
+    # - schwan
+    # - stegeman
+    # - ubiali
   abstract: >
     We extend the existing leading (LO), next-to-leading (NLO), and next-to-next-to-leading order (NNLO) NNPDF4.0 sets of parton
     distribution functions (PDFs) to approximate next-to-next-to-next-to-leading order (aN$^3$LO). We construct an approximation to
@@ -30,8 +48,25 @@ NNPDF:2024dpb:
   venue: "European Physical Journal C"
   year: 2024
   authors:
-    - NNPDF collaboration
-    - laurenti
+    - nnpdf
+    # - ball
+    # - barontini
+    # - candido
+    # - carrazza
+    # - cruz
+    # - deldebbio
+    # - forte
+    # - giani
+    # - hekhorn
+    # - kassabov
+    # - laurenti
+    # - magni
+    # - nocera
+    # - rabemananjara
+    # - rojo
+    # - schwan
+    # - stegeman
+    # - ubiali
   abstract: >
     We include uncertainties due to missing higher order corrections to QCD computations (MHOU) used in the determination of parton
     distributions (PDFs) in the recent NNPDF4.0 set of PDFs. We use our previously published methodology, based on the treatment of MHOUs
@@ -48,8 +83,25 @@ NNPDF:2024djq:
   venue: "European Physical Journal C"
   year: 2024
   authors:
-    - NNPDF collaboration
-    - laurenti
+    - nnpdf
+    # - ball
+    # - barontini
+    # - candido
+    # - carrazza
+    # - cruz
+    # - deldebbio
+    # - forte
+    # - giani
+    # - hekhorn
+    # - kassabov
+    # - laurenti
+    # - magni
+    # - nocera
+    # - rabemananjara
+    # - rojo
+    # - schwan
+    # - stegeman
+    # - ubiali
   abstract: >
     We construct a set of parton distribution functions (PDFs), based on the recent NNPDF4.0 PDF set, that also include a photon PDF. The
     photon PDF is constructed using the LuxQED formalism, while QED evolution accounting for $\mathcal{O}\lp \alpha\rp$,

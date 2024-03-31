@@ -2,6 +2,7 @@
 
 $paper:       #A40064;
 $primary:       #0064a4;
+$thesis:       #36580f;
 $link:          #666666;
 $link-hover:    #999999;
 
@@ -72,6 +73,11 @@ $black:         #000000;
 
 .tag_Conference {
   background-color: $primary;
+  color: $white;
+}
+
+.tag_MasterThesis {
+  background-color: $thesis;
   color: $white;
 }
 
