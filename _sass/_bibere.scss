@@ -1,0 +1,96 @@
+
+
+$paper:       #A40064;
+$primary:       #0064a4;
+$link:          #666666;
+$link-hover:    #999999;
+
+$white:         #ffffff;
+$black:         #000000;
+
+.yearGroup {
+  font-size: 20px;
+}
+
+.papers {
+  padding-left: 5px;
+  margin: 5px;
+}
+
+.mainAuthor {
+  color:$primary;
+  font-weight: normal;
+}
+
+.mainAuthor a {
+  color:$primary;
+  font-weight: bold;
+}
+
+.title {
+  font-weight: bold;
+  display: block;
+}
+
+.venue {
+  font-style: italic;
+}
+
+.emphasisNote {
+  font-weight: bold;
+  color: $primary;
+}
+
+.note {
+  font-style: italic;
+  color: $primary;
+}
+
+.abstract {
+  display: none;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+}
+
+.tag {
+  margin-left: 10px;
+  padding: 3px;
+}
+
+.collapse {
+    display: none;
+}
+
+
+.details-panel {
+  border-radius: 15px;
+  background-color: rgba($color: #C1BFE8, $alpha: 0.4);
+  margin: 2px;
+  padding: 10px;
+  font-size: 12px;
+}
+
+.tag_Conference {
+  background-color: $primary;
+  color: $white;
+}
+
+.tag_Paper {
+  background-color: $paper;
+  color: $white;
+}
+
+.tag_Workshop {
+  background-color: $link;
+  color: $white;
+}
+
+.tag_Chapter {
+  background-color: $link-hover;
+  color: $black;
+}
+
+.tag_Demo {
+  background-color: $link-hover;
+  color: $black;
+}

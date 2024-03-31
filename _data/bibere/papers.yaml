@@ -1,7 +1,7 @@
 NNPDF:2024nan:
   title: "The Path to N3LO Parton Distributions"
   type: Paper
-  venue: "EPJC"
+  venue: "European Physical Journal C"
   year: 2024
   authors:
     - NNPDF collaboration
@@ -27,7 +27,7 @@ NNPDF:2024nan:
 NNPDF:2024dpb:
   title: "Determination of the theory uncertainties from missing higher orders on NNLO parton distributions with percent accuracy"
   type: Paper
-  venue: "EPJC"
+  venue: "European Physical Journal C"
   year: 2024
   authors:
     - NNPDF collaboration
@@ -45,7 +45,7 @@ NNPDF:2024dpb:
 NNPDF:2024djq:
   title: "Photons in the proton: implications for the LHC"
   type: Paper
-  venue: "EPJC"
+  venue: "European Physical Journal C"
   year: 2024
   authors:
     - NNPDF collaboration
@@ -85,6 +85,7 @@ Laurenti:2022wov:
 Laurenti:2024anf:
   title: "Construction of a next-to-next-to-next-to-leading order approximation for heavy flavour production in deep inelastic scattering with quark masses"
   type: MasterThesis
+  venue: "Master Thesis"
   year: 2021
   authors:
     - laurenti
