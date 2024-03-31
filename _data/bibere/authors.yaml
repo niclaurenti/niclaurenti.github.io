@@ -2,17 +2,19 @@ laurenti:
   name:
     first: Niccolò
     last: Laurenti
-  website: ""
+  website: "https://inspirehep.net/authors/2738007?ui-citation-summary=true"
 
 rabemananjara:
   name: 
     first: Tanjona R.
     last: Rabemananjara
+  website: "https://inspirehep.net/authors/1808368?ui-citation-summary=true"
 
 stegeman:
   name:
     first: Roy
     last: Stegeman
+  website: "https://inspirehep.net/authors/1781473?ui-citation-summary=true"
 
 ball:
   name:
@@ -98,4 +100,4 @@ nnpdf:
   name:
     first: "The NNPDF"
     last: "collaboration"
-  website: "https://niclaurenti.github.io"
+  website: "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=collaboration%3ANNPDF&ui-citation-summary=true"
