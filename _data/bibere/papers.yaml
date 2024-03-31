@@ -39,7 +39,7 @@ NNPDF:2024nan:
     counterparts, that they improve the description of the global dataset and the perturbative convergence of Higgs and Drell-Yan cross-sections,
     and that MHOUs on PDFs decrease substantially with the increase of perturbative order.
   links:
-    - name: PDF
+    - name: InspireHEP
       link: https://inspirehep.net/literature/2762925
 
 NNPDF:2024dpb:
@@ -74,7 +74,7 @@ NNPDF:2024dpb:
     theory pipeline. We assess the impact of the inclusion of MHOUs on the NNPDF4.0 central values and uncertainties, and specifically show
     that they lead to improved consistency of the PDF determination with an ensuing moderate reduction of PDF uncertainties at NNLO.
   links:
-    - name: PDF
+    - name: InspireHEP
       link: https://inspirehep.net/literature/2749502
 
 NNPDF:2024djq:
@@ -111,7 +111,7 @@ NNPDF:2024djq:
     on a variety of representative LHC processes, and find that they can reach the 5\% level in vector boson pair production at large
     invariant mass. 
   links:
-    - name: PDF
+    - name: InspireHEP
       link: https://inspirehep.net/literature/2747770
 
 Laurenti:2022wov:
@@ -131,8 +131,25 @@ Laurenti:2022wov:
     case of Higgs boson production, the approximate N3LO transverse momentum distribution amounts to a correction of a few percent with
     respect to the NNLO result with a reduction in the scale dependence.
   links:
-    - name: PDF
+    - name: InspireHEP
       link: https://inspirehep.net/literature/2122473
+
+LAURENTI2023:
+  title: "Inclusion of QED corrections in PDFs fits"
+  type: Conference
+  venue: "Nuclear and Particle Physics Proceedings"
+  year: 2023
+  authors:
+    - laurenti
+  abstract: >
+    The need of percent precision in high energy physics requires the inclusion of QED effects in theoretical predictions, including the
+    contribution of photon-initiated processes. In this contribution we present ongoing work towards extending the NNPDF4.0 NNLO
+    determination of parton distribution functions (PDFs) with QED effects and a photon PDF. We study the impact of QED effects in the
+    NNPDF4.0 fit, compare our results with NNPDF3.1QED and other recent QED PDF fits, and we assess the impact of the photon PDF for
+    representative LHC processes.
+  links:
+    - name: doi
+      link: https://www.sciencedirect.com/science/article/pii/S2405601423002456?via%3Dihub
 
 Laurenti:2024anf:
   title: "Construction of a next-to-next-to-next-to-leading order approximation for heavy flavour production in deep inelastic scattering with quark masses"
@@ -157,5 +174,5 @@ Laurenti:2024anf:
     expect our results to be more accurate than previous approximations, thus providing a sufficient precision for a complete description of
     DIS at N^3LO and the consequent determination of N^3LO PDFs.
   links:
-    - name: PDF
+    - name: InspireHEP
       link: https://inspirehep.net/literature/2750247
