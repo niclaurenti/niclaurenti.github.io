@@ -90,7 +90,7 @@ My work was to combine various limits to construct an approximation for this ter
 In order to do it, I wrote the `C++` code [`Adani`](https://github.com/niclaurenti/adani), now public.
 The main methodology and the results are shown in my [Master Thesis](https://inspirehep.net/literature/2750247)
 
-These results have also been used in the [N3LO PDFs determination](https://inspirehep.net/literature/2762925) by NNPDF.
+These results have also been used in the [N$$^3$$LO PDFs determination](https://inspirehep.net/literature/2762925) by NNPDF.
 
 Other Interests
 ---------------

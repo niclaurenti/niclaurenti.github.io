@@ -10,8 +10,8 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    # url: /cv/
-    url: /files/cv.pdf
+    url: /cv/
+    # url: /files/cv.pdf
 
   - title: "Basketball career"
     url: /basketballcareer/
