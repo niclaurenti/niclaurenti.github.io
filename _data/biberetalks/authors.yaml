@@ -1,0 +1,103 @@
+laurenti:
+  name:
+    first: Niccolò
+    last: Laurenti
+  website: "https://inspirehep.net/authors/2738007?ui-citation-summary=true"
+
+rabemananjara:
+  name: 
+    first: Tanjona R.
+    last: Rabemananjara
+  website: "https://inspirehep.net/authors/1808368?ui-citation-summary=true"
+
+stegeman:
+  name:
+    first: Roy
+    last: Stegeman
+  website: "https://inspirehep.net/authors/1781473?ui-citation-summary=true"
+
+ball:
+  name:
+    first: Richard D.
+    last: Ball
+
+barontini:
+  name:
+    first: Andrea
+    last: Barontini
+
+candido:
+  name:
+    first: Alessandro
+    last: Candido
+
+ball:
+  name:
+    first: Richard D.
+    last: Ball
+
+carrazza:
+  name:
+    first: Stefano
+    last: Carrazza
+
+cruz:
+  name:
+    first: Juan
+    last: Cruz-Martinez
+
+deldebbio:
+  name:
+    first: Luigi
+    last: Del Debbio
+
+forte:
+  name:
+    first: Stefano
+    last: Forte
+
+giani:
+  name:
+    first: Tommaso
+    last: Giani
+
+hekhorn:
+  name:
+    first: Felix
+    last: Hekhorn
+
+kassabov:
+  name:
+    first: Zahari
+    last: Kassabov
+
+magni:
+  name:
+    first: Giacomo
+    last: Magni
+
+nocera:
+  name:
+    first: Emanuele R.
+    last: Nocera
+
+rojo:
+  name:
+    first: Juan
+    last: Rojo
+
+schwan:
+  name:
+    first: Christopher
+    last: Schwan
+
+ubiali:
+  name:
+    first: Maria
+    last: Ubiali
+
+nnpdf:
+  name:
+    first: "The NNPDF"
+    last: "collaboration"
+  website: "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=collaboration%3ANNPDF&ui-citation-summary=true"
