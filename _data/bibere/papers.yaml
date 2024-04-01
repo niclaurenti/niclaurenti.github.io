@@ -174,7 +174,7 @@ Laurenti:2024anf:
     data, that in turn will provide an improvement of the accuracy of all the theoretical predictions in high energy physics. Despite the
     function we are interested in is not known exactly, its expansion in some kinematic limits is available. In particular the high-scale
     limit (\(Q^2 \gg m^2\)), high-energy limit (\(z\rightarrow 0\), where \(z\) is the argument of the coefficient function) and threshold limit
-    (\(z\rightarrow z_{max}=1/(1+4m^2/Q^2)\)) of the exact coefficient function are all known, with the exception of some terms that we will provide in
+    (\(z\rightarrow z_{max} = 1/(1+4m^2/Q^2)\)) of the exact coefficient function are all known, with the exception of some terms that we will provide in
     approximate form. Therefore, combining these limits in a proper way, we will construct an approximation for the unknown term of the N\(^3\)LO
     gluon coefficient function, that describes the exact curve in the whole range of \(z\). Since other approximations for the N\(^3\)LO gluon
     coefficient functions are present in the literature, we will conclude by comparing our final approximate coefficient functions with such
