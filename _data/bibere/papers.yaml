@@ -41,6 +41,8 @@ NNPDF:2024nan:
   links:
     - name: InspireHEP
       link: https://inspirehep.net/literature/2762925
+    - name: ArXiv
+      link: https://arxiv.org/abs/2402.18635
 
 NNPDF:2024dpb:
   title: "Determination of the theory uncertainties from missing higher orders on NNLO parton distributions with percent accuracy"
@@ -76,6 +78,8 @@ NNPDF:2024dpb:
   links:
     - name: InspireHEP
       link: https://inspirehep.net/literature/2749502
+    - name: ArXiv
+      link: https://arxiv.org/abs/2401.10319
 
 NNPDF:2024djq:
   title: "Photons in the proton: implications for the LHC"
@@ -113,6 +117,8 @@ NNPDF:2024djq:
   links:
     - name: InspireHEP
       link: https://inspirehep.net/literature/2747770
+    - name: ArXiv
+      link: https://arxiv.org/abs/2401.08749
 
 Laurenti:2022wov:
   title: "Approximating missing higher-orders in transverse momentum distributions using resummations"
@@ -133,6 +139,8 @@ Laurenti:2022wov:
   links:
     - name: InspireHEP
       link: https://inspirehep.net/literature/2122473
+    - name: PDF
+      link: 
 
 LAURENTI2023:
   title: "Inclusion of QED corrections in PDFs fits"
@@ -176,3 +184,5 @@ Laurenti:2024anf:
   links:
     - name: InspireHEP
       link: https://inspirehep.net/literature/2750247
+    - name: ArXiv
+      link: https://arxiv.org/abs/2207.12265

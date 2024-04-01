@@ -18,7 +18,7 @@ MENU23:
     - name: Indico
       link: https://indico.him.uni-mainz.de/event/171/contributions/1438/
     - name: Slides
-      link: "https://indico.cern.ch/event/1095418/contributions/4656984/attachments/2368032/4044288/slides_master_thesis.pdf"
+      link: /files/MENU23-slides.pdf
 
 QCDatLHC23:
   title: "Including QED corrections to PDFs: the NNPDF4.0QED set"
@@ -37,7 +37,7 @@ QCDatLHC23:
     - name: Indico
       link: https://conference.ippp.dur.ac.uk/event/1128/contributions/6473/
     - name: Slides
-      link: https://conference.ippp.dur.ac.uk/event/1128/contributions/6473/attachments/5081/6523/laurenti_qcdatlhc.pdf
+      link: /files/QCDatLHC23-slides.pdf
 
 QCD23:
   title: "Including QED corrections to PDFs: the NNPDF4.0QED set"
@@ -53,16 +53,14 @@ QCD23:
     QED corrections. We study the impact of the QED effects to the NNPDF4.0 methodology, we compare our results with NNPDF3.1QED and other
     recent QED PDF fits and we asses the impact of the photon PDF for photon-initiated processes for LHC processes.
   links:
-    - name: Indico
-      link: https://conference.ippp.dur.ac.uk/event/1128/contributions/6473/
     - name: Slides
-      link: https://niclaurenti.github.io/files/QCD23-slides.pdf
+      link: /files/QCD23-slides.pdf
 
 MCM21:
   title: "Construction of a third order approximation for heavy flavour production in deep inelastic scattering"
   type: Talk
   venue: "Milan Chrismas Meeting 2021"
-  year: 2023
+  year: 2021
   authors:
     - laurenti
   abstract: >
@@ -71,4 +69,4 @@ MCM21:
     - name: Indico
       link: https://indico.cern.ch/event/1095418/contributions/4656984/
     - name: Slides
-      link: https://indico.cern.ch/event/1095418/contributions/4656984/attachments/2368032/4044288/slides_master_thesis.pdf
+      link: /files/MCM21-slides.pdf
