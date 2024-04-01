@@ -26,16 +26,16 @@ NNPDF:2024nan:
     # - ubiali
   abstract: >
     We extend the existing leading (LO), next-to-leading (NLO), and next-to-next-to-leading order (NNLO) NNPDF4.0 sets of parton
-    distribution functions (PDFs) to approximate next-to-next-to-next-to-leading order (aN$^3$LO). We construct an approximation to
-    the N$^3$LO splitting functions that includes all available partial information from both fixed-order computations and from small and
-    large $x$ resummation, and estimate the uncertainty on this approximation by varying the set of basis functions used to construct the
-    approximation. We include known N$^3$LO corrections to deep-inelastic scattering structure functions and extend the FONLL general-mass
-    scheme to $\mathcal{O}\lp \alpha_s^3\rp$ accuracy. We determine a set of aN$^3$LO PDFs by accounting both for the uncertainty on
-    splitting functions due to the incomplete knowledge of N$^3$LO terms, and to the uncertainty related to missing higher corrections (MHOU),
+    distribution functions (PDFs) to approximate next-to-next-to-next-to-leading order (aN\(^3\)LO). We construct an approximation to
+    the N\(^3\)LO splitting functions that includes all available partial information from both fixed-order computations and from small and
+    large \(x\) resummation, and estimate the uncertainty on this approximation by varying the set of basis functions used to construct the
+    approximation. We include known N\(^3\)LO corrections to deep-inelastic scattering structure functions and extend the FONLL general-mass
+    scheme to \(\mathcal{O}(\alpha_s^3)\) accuracy. We determine a set of aN\(^3\)LO PDFs by accounting both for the uncertainty on
+    splitting functions due to the incomplete knowledge of N\(^3\)LO terms, and to the uncertainty related to missing higher corrections (MHOU),
     estimated by scale variation, through a theory covariance matrix formalism. We assess the perturbative stability of the resulting PDFs,
-    we study the impact of MHOUs on them, and we compare our results to the aN$^3$LO PDFs from the MSHT group. We examine the phenomenological
-    impact of aN$^3$LO corrections on parton luminosities at the LHC, and give a first assessment of the impact of aN$^3$LO PDFs on the Higgs
-    and Drell-Yan total production cross-sections. We find that the aN$^3$LO NNPDF4.0 PDFs are consistent within uncertainties with their NNLO
+    we study the impact of MHOUs on them, and we compare our results to the aN\(^3\)LO PDFs from the MSHT group. We examine the phenomenological
+    impact of aN\(^3\)LO corrections on parton luminosities at the LHC, and give a first assessment of the impact of aN\(^3\)LO PDFs on the Higgs
+    and Drell-Yan total production cross-sections. We find that the aN\(^3\)LO NNPDF4.0 PDFs are consistent within uncertainties with their NNLO
     counterparts, that they improve the description of the global dataset and the perturbative convergence of Higgs and Drell-Yan cross-sections,
     and that MHOUs on PDFs decrease substantially with the increase of perturbative order.
   links:
@@ -108,11 +108,11 @@ NNPDF:2024djq:
     # - ubiali
   abstract: >
     We construct a set of parton distribution functions (PDFs), based on the recent NNPDF4.0 PDF set, that also include a photon PDF. The
-    photon PDF is constructed using the LuxQED formalism, while QED evolution accounting for $\mathcal{O}\lp \alpha\rp$,
-    $\mathcal{O}\lp \alpha \alpha_s\rp$, and $\mathcal{O}\lp \alpha^2\rp$ corrections is implemented and benchmarked by means of the
-    {\sc\small EKO} code. We investigate the impact of QED effects on NNPDF4.0, and compare our results both to our previous NNPDF3.1QED PDF
+    photon PDF is constructed using the LuxQED formalism, while QED evolution accounting for \(\mathcal{O} (\alpha)\),
+    \(\mathcal{O} (\alpha \alpha_s)\), and \(\mathcal{O} (\alpha^2)\) corrections is implemented and benchmarked by means of the
+    \(\texttt{EKO}\) code. We investigate the impact of QED effects on NNPDF4.0, and compare our results both to our previous NNPDF3.1QED PDF
     set and to other recent PDF sets that include the photon. We assess the impact of photon-initiated processes and electroweak corrections
-    on a variety of representative LHC processes, and find that they can reach the 5\% level in vector boson pair production at large
+    on a variety of representative LHC processes, and find that they can reach the 5% level in vector boson pair production at large
     invariant mass. 
   links:
     - name: InspireHEP
@@ -130,7 +130,7 @@ Laurenti:2022wov:
     - rabemananjara
     - stegeman
   abstract: >
-    We present a more reliable approach to approximate the unknown next-to-next-to-next-to-leading order (N3LO) transverse momentum
+    We present a more reliable approach to approximate the unknown next-to-next-to-next-to-leading order (N\(^3\)LO) transverse momentum
     distribution of colourless final states, namely the Higgs boson produced via gluon fusion and the lepton pair produced via Drell--Yan
     (DY) mechanism. The approximation we construct relies on the combination of various resummation formalisms -- namely threshold, small-pt
     and high energy resummations -- by exploiting the singularity structure of the large logarithms in Mellin space. We show that for the
@@ -167,20 +167,20 @@ Laurenti:2024anf:
   authors:
     - laurenti
   abstract: >
-    The subject of this thesis is the construction of an approximation for the next-to-next-to-next-to leading order (N^3LO) deep
-    inelastic scattering (DIS) massive coefficient function of the gluon for F2 in heavy quark pair production. Indeed, this object is one
-    of the ingredients needed for the construction of any variable flavour number (factorization) scheme at O(alphas^3). The construction of
+    The subject of this thesis is the construction of an approximation for the next-to-next-to-next-to leading order (N\(^3\)LO) deep
+    inelastic scattering (DIS) massive coefficient function of the gluon for \(F_2\) in heavy quark pair production. Indeed, this object is one
+    of the ingredients needed for the construction of any variable flavour number (factorization) scheme at \(\mathcal{O}(\alpha_s^3)\). The construction of
     such scheme is crucial for the improvement of the accuracy of the extraction of the parton distribution functions from the experimental
     data, that in turn will provide an improvement of the accuracy of all the theoretical predictions in high energy physics. Despite the
     function we are interested in is not known exactly, its expansion in some kinematic limits is available. In particular the high-scale
-    limit (Q^2 >> m^2), high-energy limit (z->0, where z is the argument of the coefficient function) and threshold limit
-    (z->zmax=1/(1+4m^2/Q^2)) of the exact coefficient function are all known, with the exception of some terms that we will provide in
-    approximate form. Therefore, combining these limits in a proper way, we will construct an approximation for the unknown term of the N^3LO
-    gluon coefficient function, that describes the exact curve in the whole range of z. Since other approximations for the N^3LO gluon
+    limit (\(Q^2 \gg m^2\)), high-energy limit (\(z\rightarrow 0\), where \(z\) is the argument of the coefficient function) and threshold limit
+    (\(z\rightarrow z_{max}=1/(1+4m^2/Q^2)\)) of the exact coefficient function are all known, with the exception of some terms that we will provide in
+    approximate form. Therefore, combining these limits in a proper way, we will construct an approximation for the unknown term of the N\(^3\)LO
+    gluon coefficient function, that describes the exact curve in the whole range of \(z\). Since other approximations for the N\(^3\)LO gluon
     coefficient functions are present in the literature, we will conclude by comparing our final approximate coefficient functions with such
-    approximations. We will show a comparison both for the NNLO, whose exact function is known, and for the N^3LO. With our approach, we
+    approximations. We will show a comparison both for the NNLO, whose exact function is known, and for the N\(^3\)LO. With our approach, we
     expect our results to be more accurate than previous approximations, thus providing a sufficient precision for a complete description of
-    DIS at N^3LO and the consequent determination of N^3LO PDFs.
+    DIS at N\(^3\)LO and the consequent determination of N\(^3\)LO PDFs.
   links:
     - name: InspireHEP
       link: https://inspirehep.net/literature/2750247

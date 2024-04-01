@@ -75,16 +75,16 @@ The following picture, taken from the [NNPDF4.0 paper](https://inspirehep.net/li
 
 The project I worked on during my Master Thesis, was the construction
 of an approximation for the electron-proton scattering, the so-called deep inelastic scattering (DIS),
-at third order in the strong coupling $\alpha_s$ (N3LO) with the heavy quark mass dependence, that is not known yet.
+at third order in the strong coupling $$\alpha_s$$ (N$$^3$$LO) with the heavy quark mass dependence, that is not known yet.
 
-Indeed all the quantities in particle physics are computed as a power expansion in $\alpha_s$.
+Indeed all the quantities in particle physics are computed as a power expansion in $$\alpha_s$$.
 So the theoretical predictions for DIS are computed as
 <div style="text-align:center">
 $$
 C = C^{(0)} + \alpha_s C^{(1)} + \alpha_s^2 C^{(2)} + \alpha_s^3 C^{(3)} + \mathcal{O}(\alpha_s^4)
 $$
 </div>
-This terms are fully known up to $C^{(2)}$, but the very last one, i.e. $C^{(3)}$, is not.
+This terms are fully known up to $$C^{(2)}$$, but the very last one, i.e. $$C^{(3)}$$, is not.
 My work was to combine various limits to construct an approximation for this terms.
 
 In order to do it, I wrote the `C++` code [`Adani`](https://github.com/niclaurenti/adani), now public.
