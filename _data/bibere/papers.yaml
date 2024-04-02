@@ -139,8 +139,8 @@ Laurenti:2022wov:
   links:
     - name: InspireHEP
       link: https://inspirehep.net/literature/2122473
-    - name: PDF
-      link: 
+    - name: ArXiv
+      link: https://arxiv.org/abs/2207.12265
 
 LAURENTI2023:
   title: "Inclusion of QED corrections in PDFs fits"
