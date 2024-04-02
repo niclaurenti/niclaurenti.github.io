@@ -5,7 +5,6 @@ author_profile: true
 permalink: /teaching/
 ---
 
-
 | Year   | Semester   |  Role | Course                                         |
 | --- | --- | --------------- | ------------------------------------- |
 | 2024   | 2nd        | Teaching assistant | [Fisica Quantistica Modulo 1](https://pcforte.mi.infn.it/mq/index.html)|

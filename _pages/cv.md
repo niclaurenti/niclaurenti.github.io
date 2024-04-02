@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here](/files/cv.pdf) for the PDF of my CV.
+[Click here](/files/cv.pdf){: .btn--pagebtn} for the PDF of my CV.

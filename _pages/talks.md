@@ -20,4 +20,4 @@ author_profile: true
 {% include biberetalks/byyear.html mainAuthor="laurenti"%}
 
 
-- [Click here](/talkmap) for the map of the places where I have given a talk!
+- [Click here](/talkmap){: .btn--pagebtn} for the map of the places where I have given a talk!
