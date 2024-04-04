@@ -9,4 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here](/files/cv.pdf){: .btn--pagebtn} for the PDF of my CV.
+{% include base_path %}
+<iframe src="/files/cv.pdf" style="width:100%; height:1000px;" frameborder="0"></iframe> <!-- pdf viewer -->
+
+Click <a href="/files/cv.pdf" download> here</a>{: .btn--pagebtn} to download my CV.
