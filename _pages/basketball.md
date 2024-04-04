@@ -13,7 +13,12 @@ lost in the final for the title of champions of the region Lazio.
 I still have nightmares for it.
 
 In the following years I kept playing for Sam Basket Roma in all the youth sectors.
-In 2016 I was passed to the first team that played in the Italian C Silver series. 
+In 2016 I was passed to the first team that played in the Italian C Silver series.
+
+In the following years, due to University commitments, I quit my basketball career to play at amateur level.
+
+In the end, with the start of the COVID19 pandemic in 2020, I completely stopped my basketball (and competitive sport)
+activities.
 
 Personal bests
 --------------
