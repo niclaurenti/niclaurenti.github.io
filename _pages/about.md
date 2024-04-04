@@ -11,15 +11,15 @@ permalink: /
 I am a Ph.D. student in particle physics at the University of Milan and a member of the [NNPDF](https://nnpdf.mi.infn.it){: .btn--research}  collaboration
 in which I work as a code developer.
 Check the NNPDF
-[Github page <i class="fab fa-fw fa-github" width="40" height="40"></i>](https://github.com/NNPDF "Github page"){: .btn--icon}.
+[Github page <i class="fab fa-fw fa-github" width="40" height="40"></i>](https://github.com/NNPDF "Github page"){: .btn--icon} if you want to learn about the various tools used in our analyses.
 
 With a background in theoretical physics in the field of particle physics, my research focuses on the high precision study of the internal
-structure of the proton using machine learning tool, like neural networks, using experimental data collected at particle accelerators
+structure of the proton using machine learning tool, like neural networks, analyzing experimental data collected at particle accelerators
 like [LHC](https://home.cern/science/accelerators/large-hadron-collider){: .btn--research}  at [CERN](https://home.cern){: .btn--research} .
 This results in the extraction of the so-called parton disrtibution functions (PDFs), i.e. functions that describe the proton in terms of
 the distribution of its constituents (quarks and gluons).
 This is fundamental for the physics program of all the particle accelerators in high energy physics, like the LHC at CERN, since the PDFs
-enter in the computation of all theory predictions in the hadron accelerators.
+enter in the computation of all theory predictions in the hadron collisions.
 
 The two follwing pictures show (on the left) the neural network used in the analysis and (on the right) the set of datapoints used.
 The data comes from a variety of independent experiments like [ATLAS](https://atlas.cern){: .btn--research} , [CMS](https://home.cern/science/experiments/cms){: .btn--research} ,
@@ -64,7 +64,7 @@ Usually, the PDFs are determined considering only the effects coming from the st
 Quantum Chromodynamics (QCD), since it is the dominant effect.
 
 However, if one wants to achieve a precision of the order of percent in the theory predictions, then the effects coming
-from the elecrtomagnetic interaction, i.e. Quantum Electrodynamics (QED), cannot be neglected.
+from the electromagnetic interaction, i.e. Quantum Electrodynamics (QED), cannot be neglected.
 It follows that the proton's components aquire a new member: the photon!
 The photon PDF is somehow special: while the other PDFs cannot be computed but must be extracted from data, the photon can be
 computed with an approch called LuxQED method, see [arXiv:1607.04266 <i class="ai ai-inspire" width="40" height="40"></i>](https://inspirehep.net/literature/1475703 "Inspire page"){: .btn--paper} and [arXiv:1708.01256 <i class="ai ai-inspire" width="40" height="40"></i>](https://inspirehep.net/literature/1614486 "Inspire page"){: .btn--paper}, with an equation that links it to the electron-proton scattering predictions.
@@ -78,9 +78,10 @@ The following picture, taken from the [NNPDF4.0QED paper <i class="ai ai-inspire
 
 ### Developing an approximation for electron-proton scattering at third order in the strong coupling
 
-The project I worked on during my Master Thesis, was the construction
+The project I worked on during my Master Thesis was the construction
 of an approximation for the electron-proton scattering, the so-called deep inelastic scattering (DIS),
-at third order in the strong coupling $$\alpha_s$$ (N$$^3$$LO) with the heavy quark mass dependence, that is not known yet.
+at the third order in the expansion in the strong coupling $$\alpha_s$$ (the so-called next-to-next-to-next-to leading order 
+or in brief N$$^3$$LO) with the heavy quark mass dependence, that is not known yet.
 
 Indeed all the quantities in particle physics are computed as a power expansion in $$\alpha_s$$.
 So the theoretical predictions for DIS are computed as
@@ -90,7 +91,7 @@ C = C^{(0)} + \alpha_s C^{(1)} + \alpha_s^2 C^{(2)} + \alpha_s^3 C^{(3)} + \math
 $$
 </div>
 This terms are fully known up to $$C^{(2)}$$, but the very last one, i.e. $$C^{(3)}$$, is not.
-My work was to combine various limits to construct an approximation for this terms.
+My work was to combine various limits to construct an approximation for this unknown term.
 
 In order to do it, I wrote the `C++` code [Adani <i class="fab fa-fw fa-github" width="40" height="40"></i>](https://github.com/niclaurenti/Adani "Github page"){: .btn--icon}, now public.
 The main methodology and the results are shown in my [Master Thesis <i class="ai ai-inspire" width="40" height="40"></i>](https://inspirehep.net/literature/2750247 "Inspire page"){: .btn--paper}. 
