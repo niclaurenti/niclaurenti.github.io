@@ -1,0 +1,15 @@
+picture_path: conferences
+pictures:
+- filename: IMG-20230710-WA0022.jpg
+  original: IMG-20230710-WA0022.jpg
+  sizes: []
+  thumbnail: IMG-20230710-WA0022.jpg
+  title: QCD23
+  caption: QCD23, Montpellier, France, July 2023
+- filename: IMG-20230905-WA0018.jpg
+  original: IMG-20230905-WA0018.jpg
+  sizes: []
+  thumbnail: IMG-20230905-WA0018.jpg
+  title: QCDatLHC23
+  caption: QCD@LHC23, Durham, UK, September 2023
+

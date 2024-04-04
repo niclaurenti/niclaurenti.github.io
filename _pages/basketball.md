@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+I started playing basketball in 2003 when I was 6 years old, for the newborn society [Minibasket Roma Team-up](http://www.minibasketromateamup.it){: .btn--research}.
+At the beginning of the 2009/2010 season I passed to Sam Basket Roma and at the end of an amazing season we unfortunately
+lost in the final for the title of champions of the region Lazio.
+I still have nightmares for it.
+
+In the following years I kept playing for Sam Basket Roma in all the youth sectors.
+In 2016 I was passed to the first team that played in the Italian C Silver series. 
+
 Personal bests
 --------------
 
@@ -15,3 +23,5 @@ Personal bests
 - Most rebounds: a lot
 - Most blocks: didn't count them since they were too many
 - Most steals: playing defence is boring
+
+[Click here](/gallery/basketball){: .btn--pagebtn} for some pictures!

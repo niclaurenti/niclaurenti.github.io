@@ -206,7 +206,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  basketballcareer:
+    output: true
+    permalink: /:collection/:path/
+  gallery:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -255,7 +258,15 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: basketballcareer
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  - scope:
+      path: ""
+      type: gallery
     values:
       layout: single
       author_profile: true

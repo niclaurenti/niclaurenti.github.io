@@ -21,3 +21,4 @@ author_profile: true
 
 
 - [Click here](/talkmap){: .btn--pagebtn} for the map of the places where I have given a talk!
+- [Click here](/gallery/conferences){: .btn--pagebtn} for some pictures!
