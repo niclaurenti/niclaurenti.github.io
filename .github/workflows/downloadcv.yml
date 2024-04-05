@@ -1,7 +1,8 @@
 name: Download and Use Artifact
 
 on:
-  workflow_dispatch:
+  repository_dispatch:
+    types: [upload-event]
 
 jobs:
   download_and_use:
