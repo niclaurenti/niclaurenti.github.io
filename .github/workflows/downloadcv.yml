@@ -1,8 +1,10 @@
 name: Download and Use Artifact
 
 on:
-  repository_dispatch:
-    types: [upload-event]
+  push:
+# on:
+#   repository_dispatch:
+#     types: [upload-event]
 
 jobs:
   download_and_use:
@@ -16,7 +18,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: my-cv
-          path: files  # Directory where the artifact will be downloaded
+          path: cv.pdf  # Directory where the artifact will be downloaded
 
       # Step to perform operations with the downloaded file
     #   - name: Use Downloaded File
