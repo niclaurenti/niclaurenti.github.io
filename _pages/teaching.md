@@ -19,5 +19,5 @@ permalink: /teaching/
 Additional material
 -------------------
 
-At this [link <i class="fab fa-fw fa-github" width="40" height="40"></i>](https://github.com/niclaurenti/QFT_exercises){: .btn--icon} you can
+At this [link](/files/qft_exercises.pdf){: .btn--research} you can
 find a list of exercises that I solved during the lectures for the course Fisica Teorica Modulo 1 (Introductory course on Quantum Field Theory). If you want to add some more exercises feel free to ask!
