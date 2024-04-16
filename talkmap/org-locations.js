@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "National Laboratory of Frascati, Italy",
+    41.821535,
+    12.672641
+  ],
+  [
     "Mainz, Germany",
     49.99849,
     8.275782

@@ -1,3 +1,20 @@
+TerascaleLNF:
+  title: "The inclusion of QED corrections in the NNPDF4.0 fitting framework"
+  type: Talk
+  venue: "IRN Terascale @ LNF, National Laboratory of Frascati, Italy"
+  year: 2024
+  authors:
+    - laurenti
+  abstract: >
+    The need of percent precision in high energy physics requires the inclusion of QED effects in theoretical predictions, for example like the contributions coming from photon initiated processes. It is trivial then, to correctly determine the photon content of the proton.
+    In this work, we extend the NNPDF4.0 NNLO determination of parton distribution functions (PDFs) with a photon PDF, determined within the LuxQED formalism, which evolves with the gluon and quark PDFs via DGLAP equations that contain NLO QED corrections.
+    We study the impact of the QED effects to the NNPDF4.0 methodology, we compare our results with NNPDF3.1QED and other recent QED PDF fits and we asses the impact of the photon PDF for photon-initiated processes for LHC processes.
+  links:
+    - name: Indico
+      link: https://indico.in2p3.fr/event/31806/contributions/136024/
+    - name: Slides
+      link: /files/Terascale-slides.pdf
+
 MENU23:
   title: "Evidence of intrinsic charm quark in the proton"
   type: Talk
