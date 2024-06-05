@@ -1,5 +1,5 @@
 Barontini:2024dyb:
-  title: "NNPDF4.0 aN\(^3\)LO PDFs with QED corrections"
+  title: "NNPDF4.0 aN3LO PDFs with QED corrections"
   type: Conference
   venue: "31st International Workshop on Deep-Inelastic Scattering and Related Subjects"
   year: 2024
@@ -20,7 +20,7 @@ Barontini:2024dyb:
       link: https://arxiv.org/abs/2406.01779
 
 NNPDF:2024nan:
-  title: "The Path to N\(^3\)LO Parton Distributions"
+  title: "The Path to N3LO Parton Distributions"
   type: Paper
   venue: "European Physical Journal C"
   year: 2024
