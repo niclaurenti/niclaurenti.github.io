@@ -1,5 +1,26 @@
+Barontini:2024dyb:
+  title: "NNPDF4.0 aN\(^3\)LO PDFs with QED corrections"
+  type: Conference
+  venue: "31st International Workshop on Deep-Inelastic Scattering and Related Subjects"
+  year: 2024
+  authors:
+    - barontini
+    - laurenti
+    - rojo
+  abstract: >
+    We review recent progress in the global determination of the collinear parton distributions (PDFs) of the proton within the NNPDF framework.
+    This progress includes NNPDF4.0 variants with QED effects and with missing higher order uncertainties (MHOUs) via the theory covariance matrix formalism,
+    as well as PDFs based on QCD calculations at approximate N\(^3\)LO (aN\(^3\)LO) accuracy. We present the combination of these theoretical developments resulting into
+    NNPDF4.0 aN\(^3\)LO variants accounting for QED corrections and with a photon PDF. We compare these aN\(^3\)LO QED PDFs with analogous results obtained by the MSHT group,
+    and briefly quantify their implications at the level of representative LHC cross-sections.
+  links:
+    - name: InspireHEP
+      link: https://inspirehep.net/literature/2794583
+    - name: ArXiv
+      link: https://arxiv.org/abs/2406.01779
+
 NNPDF:2024nan:
-  title: "The Path to N3LO Parton Distributions"
+  title: "The Path to N\(^3\)LO Parton Distributions"
   type: Paper
   venue: "European Physical Journal C"
   year: 2024
@@ -120,6 +141,23 @@ NNPDF:2024djq:
     - name: ArXiv
       link: https://arxiv.org/abs/2401.08749
 
+LAURENTI2023:
+  title: "Inclusion of QED corrections in PDFs fits"
+  type: Conference
+  venue: "Nuclear and Particle Physics Proceedings"
+  year: 2023
+  authors:
+    - laurenti
+  abstract: >
+    The need of percent precision in high energy physics requires the inclusion of QED effects in theoretical predictions, including the
+    contribution of photon-initiated processes. In this contribution we present ongoing work towards extending the NNPDF4.0 NNLO
+    determination of parton distribution functions (PDFs) with QED effects and a photon PDF. We study the impact of QED effects in the
+    NNPDF4.0 fit, compare our results with NNPDF3.1QED and other recent QED PDF fits, and we assess the impact of the photon PDF for
+    representative LHC processes.
+  links:
+    - name: doi
+      link: https://www.sciencedirect.com/science/article/pii/S2405601423002456?via%3Dihub
+
 Laurenti:2022wov:
   title: "Approximating missing higher-orders in transverse momentum distributions using resummations"
   type: Conference
@@ -141,23 +179,6 @@ Laurenti:2022wov:
       link: https://inspirehep.net/literature/2122473
     - name: ArXiv
       link: https://arxiv.org/abs/2207.12265
-
-LAURENTI2023:
-  title: "Inclusion of QED corrections in PDFs fits"
-  type: Conference
-  venue: "Nuclear and Particle Physics Proceedings"
-  year: 2023
-  authors:
-    - laurenti
-  abstract: >
-    The need of percent precision in high energy physics requires the inclusion of QED effects in theoretical predictions, including the
-    contribution of photon-initiated processes. In this contribution we present ongoing work towards extending the NNPDF4.0 NNLO
-    determination of parton distribution functions (PDFs) with QED effects and a photon PDF. We study the impact of QED effects in the
-    NNPDF4.0 fit, compare our results with NNPDF3.1QED and other recent QED PDF fits, and we assess the impact of the photon PDF for
-    representative LHC processes.
-  links:
-    - name: doi
-      link: https://www.sciencedirect.com/science/article/pii/S2405601423002456?via%3Dihub
 
 Laurenti:2024anf:
   title: "Construction of a next-to-next-to-next-to-leading order approximation for heavy flavour production in deep inelastic scattering with quark masses"
