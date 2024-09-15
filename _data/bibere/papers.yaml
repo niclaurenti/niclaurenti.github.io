@@ -1,3 +1,28 @@
+Cruz-Martinez:2024cbz:
+  title: "LO, NLO, and NNLO Parton Distributions for LHC Event Generators"
+  type: Paper
+  venue: "Journal of High Energy Physics"
+  year: 2024
+  authors:
+    - cruz
+    - forte
+    - laurenti
+    - rabemananjara
+    - rojo
+  abstract: >
+    We present NNPDF4.0MC, a variant of the NNPDF4.0 set of parton distributions (PDFs) at LO, NLO and NNLO, with and without inclusion
+    of the photon PDF, suitable for use with Monte Carlo (MC) event generators, which require PDFs to satisfy additional constraints in
+    comparison to standard PDF sets.
+    These requirements include PDF positivity down to a low scale \(Q \sim 1\) GeV, smooth extrapolation in the very small and large 
+    \(x\) regions, and numerically stable results even in extreme regions of phase space for all PDFs. We compare the NNPDF4.0MC PDFs
+    to their baseline NNPDF4.0 counterparts, and to the NNPDF2.3LO set entering the Monash tune of the Pythia8 event generator.
+    We briefly assess the phenomenological impact of these PDFs on the cross-sections for hard and soft QCD processes at the LHC.
+  links:
+    - name: InspireHEP
+      link: https://inspirehep.net/literature/2800507
+    - name: ArXiv
+      link: https://arxiv.org/abs/2406.12961
+
 Barontini:2024dyb:
   title: "NNPDF4.0 aN3LO PDFs with QED corrections"
   type: Conference
@@ -155,6 +180,8 @@ LAURENTI2023:
     NNPDF4.0 fit, compare our results with NNPDF3.1QED and other recent QED PDF fits, and we assess the impact of the photon PDF for
     representative LHC processes.
   links:
+    - name: InspireHEP
+      link: https://inspirehep.net/literature/2780465
     - name: doi
       link: https://www.sciencedirect.com/science/article/pii/S2405601423002456?via%3Dihub
 

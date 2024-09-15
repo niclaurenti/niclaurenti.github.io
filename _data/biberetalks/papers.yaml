@@ -1,3 +1,20 @@
+ICHEP2024:
+  title: "The inclusion of QED corrections in the NNPDF4.0 fitting framework"
+  type: Talk
+  venue: "ICHEP 2024, Prague, Czech Republic"
+  year: 2024
+  authors:
+    - laurenti
+  abstract: >
+    The need of percent precision in high energy physics requires the inclusion of QED effects in theoretical predictions, for example like the contributions coming from photon initiated processes. It is trivial then, to correctly determine the photon content of the proton.
+    In this work, we extend the NNPDF4.0 NNLO determination of parton distribution functions (PDFs) with a photon PDF, determined within the LuxQED formalism, which evolves with the gluon and quark PDFs via DGLAP equations that contain NLO QED corrections.
+    We study the impact of the QED effects to the NNPDF4.0 methodology, we compare our results with NNPDF3.1QED and other recent QED PDF fits and we asses the impact of the photon PDF for photon-initiated processes for LHC processes.
+  links:
+    - name: Indico
+      link: https://indico.cern.ch/event/1291157/contributions/5876646/
+    - name: Slides
+      link: /files/ICHEP24-slides.pdf
+
 TerascaleLNF:
   title: "The inclusion of QED corrections in the NNPDF4.0 fitting framework"
   type: Talk

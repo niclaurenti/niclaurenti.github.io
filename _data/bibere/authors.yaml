@@ -25,6 +25,7 @@ barontini:
   name:
     first: Andrea
     last: Barontini
+  website: "https://inspirehep.net/authors/2512960?ui-citation-summary=true"
 
 candido:
   name:
@@ -45,6 +46,7 @@ cruz:
   name:
     first: Juan
     last: Cruz-Martinez
+  website: "https://inspirehep.net/authors/1519335?ui-citation-summary=true"
 
 deldebbio:
   name:
@@ -55,6 +57,7 @@ forte:
   name:
     first: Stefano
     last: Forte
+  website: "https://inspirehep.net/authors/1009661?ui-citation-summary=true"
 
 giani:
   name:
@@ -85,6 +88,7 @@ rojo:
   name:
     first: Juan
     last: Rojo
+  website: "https://inspirehep.net/authors/1019897?ui-citation-summary=true"
 
 schwan:
   name:
