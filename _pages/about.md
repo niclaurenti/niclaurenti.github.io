@@ -16,7 +16,7 @@ Check the NNPDF
 With a background in theoretical physics in the field of particle physics, my research focuses on the high precision study of the internal
 structure of the proton using machine learning tool, like neural networks, analyzing experimental data collected at particle accelerators
 like [LHC](https://home.cern/science/accelerators/large-hadron-collider){: .btn--research}  at [CERN](https://home.cern){: .btn--research} .
-This results in the extraction of the so-called parton disrtibution functions (PDFs), i.e. functions that describe the proton in terms of
+This results in the extraction of the so-called parton distribution functions (PDFs), i.e. functions that describe the proton in terms of
 the distribution of its constituents (quarks and gluons).
 This is fundamental for the physics program of all the particle accelerators in high energy physics, like the LHC at CERN, since the PDFs
 enter in the computation of all theory predictions in the hadron collisions.
